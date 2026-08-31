@@ -14,8 +14,8 @@ This repository contains a Jupyter-based workflow for detecting weeds in agricul
 1. Clone this repository:
 
    ```bash
-   git clone [YOUR_REPO_LINK_HERE]
-   cd [YOUR_REPO_NAME]
+   git clone https://github.com/divyamX700/WeedDetectionYOLO
+   cd https://github.com/divyamX700/WeedDetectionYOLO
    ```
 
 2. Install the required dependencies. A GPU-enabled Python environment is highly recommended for reasonable training times:
